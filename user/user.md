@@ -40,3 +40,4 @@
 | reasc       | num  | 反馈分数           |            |
 | res  | num | 资源数 |                                  |
 | award   | num  | 奖章数         |                                                              |
+| coin  | num  | 硬币数         |                                                              |
